@@ -2,82 +2,68 @@
 
 **`Desenvolvedor Back-end`**
 
-> "Transformando café em código ☕ com Java, Spring e dedicação!"
+> Transformando café ☕ em soluções com Java, Spring e código bem estruturado.
 
-Me chamo João Victor Amorim, tenho 18 anos e moro em Fortaleza/CE.  
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FBUIN.
+Olá! Me chamo **João Victor Amorim**, tenho **19 anos** e moro em **Fortaleza/CE**.  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e trabalho como **Suporte Técnico Jr. de Sistemas**, onde desenvolvo habilidades de resolução de problemas, atendimento e entendimento prático de sistemas em produção.
+
+Tenho foco em **desenvolvimento Back-end**, buscando evoluir principalmente no ecossistema **Java + Spring**, com interesse em arquitetura, APIs e construção de produtos escaláveis.
 
 ---
 
-### 🚀 Minhas redes e contatos
+## 🚀 Redes e Contato
 
 <p align="center">
   <a href="https://github.com/viictoramorim" target="_blank">
-    <img 
-        alt="Estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/viictoramorim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
+    <img src="https://custom-icon-badges.demolab.com/github/stars/viictoramorim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
   </a>
   <a href="https://github.com/viictoramorim?tab=followers" target="_blank">
-    <img 
-        alt="Seguidores" 
-        title="Seguidores no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/viictoramorim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/viictoramorim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/joaovictoramorimfarinon/" target="_blank">
-    <img 
-        alt="LinkedIn" 
-        title="Perfil no LinkedIn" 
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-joaovictoramorimfarinon-1155ba?style=for-the-badge&logo=linkedin&logoColor=white&color=236ad3"
-    />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-1155ba?style=for-the-badge&logo=linkedin&logoColor=white&color=236ad3"/>
   </a>
   <a href="mailto:joaovictoramorim.dev@gmail.com" target="_blank">
-    <img 
-        alt="E-mail" 
-        title="Email para contato" 
-        src="https://custom-icon-badges.demolab.com/badge/Email-joaofarinon10@gmail.com-1155ba?style=for-the-badge&logo=gmail&logoColor=white&color=236ad3"
-    />
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-Contato-1155ba?style=for-the-badge&logo=gmail&logoColor=white&color=236ad3"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tecnologias que estou usando e aprendendo
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" style="margin: 0 10px;" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" style="margin: 0 10px;" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40px" style="margin: 0 10px;" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px" style="margin: 0 10px;" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40px" style="margin: 0 10px;" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="40px" style="margin: 0 10px;" title="Firebird"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="margin: 0 10px;" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" style="margin: 0 10px;" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px" style="margin: 0 10px;" title="Postman"/>
+          
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📂 Projetos em Destaque
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viictoramorim&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viictoramorim&layout=compact&langs_count=7&theme=highcontrast&locale=pt-br"/>
-</p>
+### 🔗 URL Shortener
+Encurtador de links simples e eficiente com foco em backend e manipulação de rotas.  
+👉 https://github.com/viictoramorim/url_shortener
 
----
+### ✅ To-Do List
+Aplicação CRUD completa para gerenciamento de tarefas, explorando estrutura REST e persistência.  
+👉 https://github.com/viictoramorim/To-Do-List
 
-### 📂 Projetos em destaque
+### 🔐 CRUD de Usuários
+Sistema backend com Spring Boot para cadastro, edição e listagem de usuários.  
+👉 https://github.com/viictoramorim/Crud-Basic
 
-- 🔗 **URL Shortener** — Encurtador de links simples e funcional.  
-  [Acessar repositório](https://github.com/viictoramorim/url_shortener)
-
-- ✅ **To-Do List** — Lista de tarefas com CRUD completo.  
-  [Acessar repositório](https://github.com/viictoramorim/To-Do-List)
-
-- 🔐 **CRUD de Usuários** — Sistema para cadastro, edição e listagem de usuários usando Spring Boot.  
-  [Acessar repositório](https://github.com/viictoramorim/Crud-Basic)
-
-- 💱 **Conversor de Moedas** — Aplicação que converte moedas em tempo real utilizando APIs.  
-  [Acessar repositório](https://github.com/viictoramorim/Conversor-De-Moedas)
+### 💱 Conversor de Moedas
+Aplicação integrada com API externa para conversão em tempo real.  
+👉 https://github.com/viictoramorim/Conversor-De-Moedas
 
 ---
 
